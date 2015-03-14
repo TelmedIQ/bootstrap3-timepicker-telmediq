@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-timepicker-telmediq",
   "description": "Timepicker widget for Twitter Bootstrap 3.*",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "homepage": "https://github.com/TelmedIQ/bootstrap3-timepicker-telmediq",
   "author": {
     "name": "Joris de Wit",
