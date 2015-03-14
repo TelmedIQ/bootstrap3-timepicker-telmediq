@@ -1,4 +1,5 @@
 *.swp
+.idea
 _site/
 .grunt
 node_modules
