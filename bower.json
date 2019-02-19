@@ -9,8 +9,8 @@
     "main": ["js/bootstrap-timepicker.min.js", "css/bootstrap-timepicker.min.css"],
     "dependencies": {
         "bootstrap": ">=3.0",
-        "jquery": ">=1.8.3",
-         "autotype": "git@github.com:mmonteleone/jquery.autotype.git"
+        "jquery": ">=1.8.3"
+         #"autotype": "git@github.com:mmonteleone/jquery.autotype.git"
     }
 }
 
